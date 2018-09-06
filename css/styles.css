@@ -9,3 +9,7 @@
 .border {
   border: 6px solid blue;
 }
+
+#fade {
+  display: none;
+}
